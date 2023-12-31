@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-open-sans: "Open Sans";
+    --font-ntr: NTR;
+    --font-inter: Inter;
+    --font-medula-one: "Medula One";
+  
+    /* font sizes */
+    --font-size-13xl: 2rem;
+    --font-size-xl: 1.25rem;
+    --font-size-smi-4: 0.78rem;
+    --font-size-81xl: 6.25rem;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-gray-100: #1e1e1e;
+  
+    /* Border radiuses */
+    --br-21xl: 40px;
+  }
+  

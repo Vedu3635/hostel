@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-roboto: Roboto;
+    --font-righteous: Righteous;
+    --font-ntr: NTR;
+    --font-inter: Inter;
+    --font-inherit: inherit;
+    --font-medula-one: "Medula One";
+    --font-montserrat: Montserrat;
+    --font-monomaniac-one: "Monomaniac One";
+    --font-balsamiq-sans: "Balsamiq Sans";
+    --font-kumbh-sans: "Kumbh Sans";
+    --font-open-sans: "Open Sans";
+  
+    /* font sizes */
+    --font-size-base: 16px;
+    --font-size-6xl: 25px;
+    --font-size-31xl: 50px;
+    --font-size-13xl: 32px;
+    --font-size-21xl: 40px;
+    --font-size-11xl: 30px;
+    --font-size-xl: 20px;
+    --font-size-smi-4: 12.4px;
+    --font-size-61xl: 80px;
+    --font-size-71xl: 90px;
+    --font-size-17xl: 36px;
+    --font-size-56xl: 75px;
+    --font-size-32xl: 51px;
+    --font-size-8xl: 27px;
+  
+    /* Colors */
+    --royal-care-boys-hostel-boys-hostelbusinesssite-nero: #fff;
+    --color-gray-100: #1e1e1e;
+    --wwwphpscriptsonlinecom-cod-gray: #0e0e0e;
+    --royal-care-boys-hostel-boys-hostelbusinesssite-anzac: #ddaa44;
+    --royal-care-boys-hostel-boys-hostelbusinesssite-black: #000;
+    --color-gainsboro-100: #d9d9d9;
+    --color-saddlebrown-100: #6c4c24;
+    --color-saddlebrown-200: #674923;
+    --color-saddlebrown-300: #653c07;
+    --color-saddlebrown-400: rgba(101, 60, 7, 0.58);
+    --color-tan-100: #a68e6f;
+    --color-tan-200: #a78a65;
+    --color-silver: #d2c2ae;
+    --color-peachpuff: #dac7ae;
+  
+    /* Gaps */
+    --gap-6xs-8: 6.8px;
+    --gap-10xs-8: 2.8px;
+  
+    /* Paddings */
+    --padding-0: 0px;
+    --padding-12xs: 1px;
+    --padding-5xs: 8px;
+    --padding-base-1: 16.1px;
+    --padding-lg: 18px;
+    --padding-35xl: 54px;
+    --padding-34xl: 53px;
+  
+    /* Border radiuses */
+    --br-11xs: 2px;
+    --br-21xl: 40px;
+    --br-xl: 20px;
+    --br-3xs: 10px;
+  }

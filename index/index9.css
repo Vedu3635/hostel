@@ -1,0 +1,449 @@
+.link-aashirvad {
+    position: absolute;
+    top: 22px;
+    left: 45px;
+    font-size: var(--font-size-3xl);
+    font-family: var(--font-ultra);
+  }
+  .call-now,
+  .get-directions {
+    position: absolute;
+    font-size: var(--font-size-mid);
+    line-height: 24px;
+    text-transform: capitalize;
+  }
+  .call-now {
+    top: 15px;
+    left: 1667px;
+    display: flex;
+    align-items: center;
+    width: 74px;
+    height: 21px;
+  }
+  .get-directions {
+    top: 14px;
+    left: 1777px;
+  }
+  .icon {
+    position: absolute;
+    top: 17px;
+    left: 1760px;
+    width: 17px;
+    height: 17px;
+    overflow: hidden;
+  }
+  .link-gallery {
+    position: absolute;
+    top: 14px;
+    left: 1562px;
+    line-height: 24px;
+  }
+  .vector-icon {
+    position: absolute;
+    height: 1.19%;
+    width: 0.66%;
+    top: 1.67%;
+    right: 13.4%;
+    bottom: 97.15%;
+    left: 85.94%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .aashirvad-hostel {
+    position: absolute;
+    top: 109px;
+    left: 630px;
+    font-size: var(--font-size-41xl);
+    line-height: 67.2px;
+    font-family: var(--font-ultra);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 661px;
+    height: 67px;
+  }
+  .boys-hostel-in,
+  .open-24-hours {
+    position: absolute;
+    top: 205px;
+    left: 854px;
+    line-height: 24px;
+    color: var(--color-gray-100);
+    text-align: center;
+  }
+  .open-24-hours {
+    top: 248px;
+    left: 892px;
+  }
+  .af1qipnnfmcfqudkv3hc0jmt32qqll-icon {
+    position: absolute;
+    width: calc(100% - 841px);
+    top: 365px;
+    right: 419px;
+    left: 422px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 608px;
+    object-fit: cover;
+  }
+  .frame1-child {
+    position: absolute;
+    top: 716px;
+    left: 975px;
+    width: 25px;
+    height: 42px;
+    overflow: hidden;
+  }
+  .frame1,
+  .frame1-child,
+  .frame1-item {
+    background-color: var(--royal-care-boys-hostel-boys-hostelbusinesssite-nero);
+  }
+  .frame1-item {
+    position: absolute;
+    top: 791px;
+    left: 1018px;
+    width: 22px;
+    height: 42px;
+    overflow: hidden;
+  }
+  .frame1 {
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    color: var(--color-darkseagreen);
+  }
+  .separator {
+    position: absolute;
+    top: 15px;
+    left: calc(50% - 26px);
+    border: 1px solid var(--royal-care-boys-hostel-boys-hostelbusinesssite-black);
+    box-sizing: border-box;
+    width: 52px;
+    height: 2px;
+    overflow: hidden;
+  }
+  .gallery {
+    position: absolute;
+    top: 28px;
+    left: calc(50% - 112px);
+    line-height: 24px;
+    text-transform: uppercase;
+  }
+  .af1qipo3mfs3evqxn5tyivqhvqtj18-icon,
+  .frame-child {
+    position: absolute;
+    top: 157px;
+    left: 291px;
+    border-radius: var(--br-21xl);
+  }
+  .frame-child {
+    background-color: var(--color-gainsboro-100);
+    width: 1337px;
+    height: 767px;
+  }
+  .af1qipo3mfs3evqxn5tyivqhvqtj18-icon {
+    width: calc(100% - 1586px);
+    right: 1295px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 371px;
+    object-fit: cover;
+  }
+  .af1qippavjuj3i06o4kwehlwc97cuz-icon {
+    width: calc(100% - 1586px);
+    right: 960px;
+    left: 626px;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .af1qipnu-wcnh7xw96-iyitmncwv0z-icon,
+  .af1qippavjuj3i06o4kwehlwc97cuz-icon,
+  .af1qipplcdrijvwxxjbhkt3nn-yhwl-icon {
+    position: absolute;
+    top: 157px;
+    border-radius: var(--br-21xl);
+    height: 371px;
+    object-fit: cover;
+  }
+  .af1qipnu-wcnh7xw96-iyitmncwv0z-icon {
+    width: calc(100% - 1586px);
+    right: 627px;
+    left: 959px;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .af1qipplcdrijvwxxjbhkt3nn-yhwl-icon {
+    left: 1294px;
+    width: 334px;
+  }
+  .af1qipooaljezvng0ax40ju8un-qtq-icon {
+    position: absolute;
+    width: calc(100% - 1586px);
+    top: 548px;
+    right: 1295px;
+    left: 291px;
+    border-radius: var(--br-21xl);
+    max-width: 100%;
+    overflow: hidden;
+    height: 376px;
+    object-fit: cover;
+  }
+  .af1qippudtsyhgedt0numve2l4zv6m-icon {
+    width: calc(100% - 1586px);
+    right: 960px;
+    left: 626px;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .af1qipmqjd6fuw0jrzd-mpzp4rrkn-icon,
+  .af1qippudtsyhgedt0numve2l4zv6m-icon,
+  .image-1-icon {
+    position: absolute;
+    top: 548px;
+    border-radius: var(--br-21xl);
+    height: 376px;
+    object-fit: cover;
+  }
+  .af1qipmqjd6fuw0jrzd-mpzp4rrkn-icon {
+    width: calc(100% - 1586px);
+    right: 625px;
+    left: 961px;
+    max-width: 100%;
+    overflow: hidden;
+  }
+  .image-1-icon {
+    left: 1295px;
+    width: 334px;
+  }
+  .contact-us,
+  .separator-parent {
+    font-size: var(--font-size-21xl);
+    font-family: var(--font-ultra);
+    text-align: center;
+  }
+  .separator-parent {
+    position: relative;
+    background-color: var(--royal-care-boys-hostel-boys-hostelbusinesssite-nero);
+    width: 1920px;
+    height: 1081.3px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .contact-us {
+    position: absolute;
+    top: 28px;
+    left: 806px;
+    line-height: 24px;
+    text-transform: uppercase;
+  }
+  .contact,
+  .divqmbmre-icon {
+    position: absolute;
+    left: 420px;
+  }
+  .divqmbmre-icon {
+    width: calc(100% - 840px);
+    top: 128px;
+    right: 420px;
+    max-width: 100%;
+    overflow: hidden;
+    height: 604.8px;
+    object-fit: cover;
+  }
+  .contact {
+    top: 783px;
+    font-size: var(--font-size-6xl);
+    line-height: 18.72px;
+    display: flex;
+    align-items: center;
+    width: 104px;
+    height: 19px;
+  }
+  .call-now1 {
+    position: relative;
+    line-height: 24px;
+    text-transform: uppercase;
+  }
+  .div,
+  .div1,
+  .link {
+    position: absolute;
+    left: 412px;
+  }
+  .link {
+    top: 826px;
+    border-radius: var(--br-11xs);
+    background-color: var(--color-darkseagreen);
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-lg) var(--padding-35xl);
+    color: var(--royal-care-boys-hostel-boys-hostelbusinesssite-nero);
+  }
+  .div,
+  .div1 {
+    line-height: 24px;
+  }
+  .div {
+    top: 910px;
+    display: inline-block;
+    max-width: 324px;
+  }
+  .div1 {
+    top: 946px;
+  }
+  .address,
+  .link1 {
+    position: absolute;
+    left: 908px;
+    display: flex;
+  }
+  .address {
+    top: 783px;
+    font-size: var(--font-size-6xl);
+    line-height: 18.72px;
+    align-items: center;
+    width: 104px;
+    height: 19px;
+  }
+  .link1 {
+    top: 826px;
+    border-radius: var(--br-11xs);
+    background-color: var(--color-darkseagreen);
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-lg) var(--padding-35xl);
+    color: var(--royal-care-boys-hostel-boys-hostelbusinesssite-nero);
+  }
+  .gujarat-state-highway {
+    position: absolute;
+    top: 910px;
+    left: 913px;
+    line-height: 24px;
+  }
+  .business-hours,
+  .changa-gujarat-388440,
+  .india {
+    position: absolute;
+    top: 934px;
+    left: 913px;
+    line-height: 24px;
+  }
+  .business-hours,
+  .india {
+    top: 958px;
+  }
+  .business-hours {
+    top: 784px;
+    left: 1316px;
+    font-size: var(--font-size-6xl);
+    line-height: 18.72px;
+    display: inline-block;
+    max-width: 324px;
+    max-height: 18.719999313354492px;
+  }
+  .cell-sun,
+  .open-24-hours1 {
+    position: absolute;
+    line-height: 24px;
+  }
+  .open-24-hours1 {
+    top: 976px;
+    left: 1392px;
+  }
+  .cell-sun {
+    top: calc(50% + 435.35px);
+    left: 1353px;
+  }
+  .cell-fri,
+  .cell-sat,
+  .open-24-hours2,
+  .open-24-hours3 {
+    position: absolute;
+    top: 953px;
+    left: 1387px;
+    line-height: 24px;
+  }
+  .cell-fri,
+  .cell-sat,
+  .open-24-hours3 {
+    left: 1353px;
+  }
+  .cell-fri,
+  .open-24-hours3 {
+    top: 931px;
+    left: 1383px;
+  }
+  .cell-fri {
+    left: 1352px;
+  }
+  .cell-thu,
+  .cell-wed,
+  .open-24-hours4,
+  .open-24-hours5 {
+    position: absolute;
+    top: 908px;
+    left: 1392px;
+    line-height: 24px;
+  }
+  .cell-thu,
+  .cell-wed,
+  .open-24-hours5 {
+    left: 1352px;
+  }
+  .cell-wed,
+  .open-24-hours5 {
+    top: 886px;
+    left: 1392px;
+  }
+  .cell-wed {
+    left: 1352px;
+  }
+  .cell-mon,
+  .cell-tue,
+  .open-24-hours6,
+  .open-24-hours7 {
+    position: absolute;
+    top: 862px;
+    left: 1392px;
+    line-height: 24px;
+  }
+  .cell-mon,
+  .cell-tue,
+  .open-24-hours7 {
+    left: 1353px;
+  }
+  .cell-mon,
+  .open-24-hours7 {
+    top: 841px;
+    left: 1392px;
+  }
+  .cell-mon {
+    left: 1352px;
+  }
+  .separator-group {
+    position: relative;
+    background-color: var(--royal-care-boys-hostel-boys-hostelbusinesssite-nero);
+    width: 1920px;
+    height: 1081.3px;
+    overflow: hidden;
+    flex-shrink: 0;
+    font-size: var(--font-size-base);
+  }
+  .frame1-parent {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-gray-100);
+    font-family: var(--font-slabo-13px);
+  }

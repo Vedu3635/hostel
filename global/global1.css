@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-monomaniac-one: "Monomaniac One";
+    --font-kumbh-sans: "Kumbh Sans";
+    --font-balsamiq-sans: "Balsamiq Sans";
+    --font-montserrat: Montserrat;
+    --font-inter: Inter;
+    --font-medula-one: "Medula One";
+  
+    /* font sizes */
+    --font-size-71xl: 90px;
+    --font-size-8xl: 27px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-saddlebrown: #653c07;
+  
+    /* Border radiuses */
+    --br-21xl: 40px;
+  }
